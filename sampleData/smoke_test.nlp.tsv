@@ -1,0 +1,192 @@
+MRN	FillerOrderNo	SetId	ObservationId	ValueType	Observation	ObservationSubId	ObservationValue	SpecimenSource	
+U9999991	CN-14-99991	1	DEMOGRAPHICS	FT	DEMOGRAPHICS	1	** DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT **	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	2	DEMOGRAPHICS	FT	DEMOGRAPHICS	2	"PATIENT:   SZYSLAK, MOE"	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	3	DEMOGRAPHICS	FT	DEMOGRAPHICS	3	MRN:       U9999991     (SpringfieldMC)	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	4	DEMOGRAPHICS	FT	DEMOGRAPHICS	4	DOB:       Apr 39 1967	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	5	DEMOGRAPHICS	FT	DEMOGRAPHICS	5	SEX:       M	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	6	DEMOGRAPHICS	FT	DEMOGRAPHICS	6	.	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	7	DEMOGRAPHICS	FT	DEMOGRAPHICS	7	CASE:   CN-14-99991    COLLECTED: Jan  9 2017    RECEIVED: Jan  10 2017	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	8	REPORT	FT	REPORT	1	SPECIMEN SOURCE:	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	9	REPORT	FT	REPORT	2	A) Pleural Fluid (LEFT)	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	10	REPORT	FT	REPORT	3	NULL	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	11	REPORT	FT	REPORT	4	SPECIMEN DESCRIPTION:	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	12	REPORT	FT	REPORT	5	5 ML HEMORRHAGIC FLUID IN GLASS CONTAINER	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	13	REPORT	FT	REPORT	6	NULL	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	14	REPORT	FT	REPORT	7	CYTOPREPARATION:	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	15	REPORT	FT	REPORT	8	2 CCF	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	16	REPORT	FT	REPORT	9	NULL	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	17	REPORT	FT	REPORT	10	___________________________________________________________________________________________________________	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	18	REPORT	FT	REPORT	11	NULL	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	19	REPORT	FT	REPORT	12	CYTOLOGIC IMPRESSION:	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	20	REPORT	FT	REPORT	13	Pleural fluid:  inadequate for diagnosis.  See comment.	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	21	REPORT	FT	REPORT	14	NULL	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	22	REPORT	FT	REPORT	15	COMMENT:	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	23	REPORT	FT	REPORT	16	"Received are 5 mls of hemorrhagic fluid, from which two cytocentrifuged smears are prepared. ?Slides show scattered lymphocytes and mesothelial cells with abundant acellular debris in the background.? While no cytologically malignant cells are identified the optimal volume for body cavity fluid cytologic evaluation is at least 100 to 300 mls and up to 1 L if possible.  The low volume of material is of particular importance given the previous positive fluid."	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	24	REPORT	FT	REPORT	17	NULL	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	25	REPORT	FT	REPORT	18	___________________________________________________________________________________________________________	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	26	REPORT	FT	REPORT	19	PERTINENT CLINICAL DATA AND CLINICAL DIAGNOSIS:	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	27	REPORT	FT	REPORT	20	75-year-old man with stage IV non-small-cell lung cancer of the adenocarcinoma type and multiple pleural-based metastases. Status post VATS partial pleurectomy.	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	28	REPORT	FT	REPORT	21	NULL	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	29	REPORT	FT	REPORT	22	NULL	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	30	REPORT	FT	REPORT	23	NULL	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	31	REPORT	FT	REPORT	24	DV	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	32	REPORT	FT	REPORT	25	Cytotechnologist	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	33	REPORT	FT	REPORT	26	1/19/2017	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	34	REPORT	FT	REPORT	27	Drederick Tatum MD	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	35	REPORT	FT	REPORT	28	Fellow	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	36	REPORT	FT	REPORT	29	1/19/2017	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	37	REPORT	FT	REPORT	30	Allison Taylor MD	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	38	REPORT	FT	REPORT	31	Pathologist	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	39	REPORT	FT	REPORT	32	Electronically signed 01/19/2017	A) Pleural Fluid (LEFT)	
+U9999991	CN-14-99991	40	REPORT	FT	REPORT	33	"In compliance with CMS regulations, the pathologist's signature on this report indicates that the case has been personally reviewed,and the diagnosis made or confirmed by, the Attending Pathologist. Microscopic examination was used to arrive at the diagnosis unless indicated otherwise."	A) Pleural Fluid (LEFT)	
+U9999995	NP-11-99992	1	DEMOGRAPHICS	FT	DEMOGRAPHICS	1	** DEMOGRAPHICS DRAWN FROM PATHOLOGY REPORT **	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	2	DEMOGRAPHICS	FT	DEMOGRAPHICS	2	"PATIENT:   WIGGUM, RALPH A"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	3	DEMOGRAPHICS	FT	DEMOGRAPHICS	3	MRN:       U9999995     (Springfield MC)	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	4	DEMOGRAPHICS	FT	DEMOGRAPHICS	4	DOB:       Jun 20 1989	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	5	DEMOGRAPHICS	FT	DEMOGRAPHICS	5	SEX:       M	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	6	DEMOGRAPHICS	FT	DEMOGRAPHICS	6	.	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	7	DEMOGRAPHICS	FT	DEMOGRAPHICS	7	CASE:   NP-11-99992    COLLECTED: Oct 16 2016    RECEIVED: Oct 19 2016	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	8	REPORT	FT	REPORT	1	********** THIS IS A REVISED OR CORRECTED REPORT ***********	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	9	REPORT	FT	REPORT	2	**** PLEASE SEE END OF REPORT FOR DETAIL OF CORRECTIONS ****	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	10	REPORT	FT	REPORT	3	CLINICAL DATA:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	11	REPORT	FT	REPORT	4	"Per pathology requisition: Right frontal craniotomy tumor resection.   Per Mindscape: The patient is a 51-year-old woman with 2 weeks history of confusion, headaches and frequent falls.?MRI showed a contrast enhancing cystic mass in the right frontal lobe with a large amount of edema and midline shift.?She also had a chest x-ray which showed a right lower lobe mass.?"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	12	REPORT	FT	REPORT	5	Reason for Revision #1 (Addendum): Additional Studies	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	13	REPORT	FT	REPORT	6	Reason for Revision #2 (Addendum): FISH/PCR Results	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	14	REPORT	FT	REPORT	7	Reason for Revision #3 (Addendum): Additional Studies	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	15	REPORT	FT	REPORT	8	CLINICAL DATA:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	16	REPORT	FT	REPORT	9	CLINICAL DATA:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	17	REPORT	FT	REPORT	10	CLINICAL DATA:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	18	REPORT	FT	REPORT	11	"Per pathology requisition: Right frontal craniotomy tumor resection.   Per Mindscape: The patient is a 51-year-old woman with 2 weeks history of confusion, headaches and frequent falls.?MRI showed a contrast enhancing cystic mass in the right frontal lobe with a large amount of edema and midline shift.?She also had a chest x-ray which showed a right lower lobe mass.?"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	19	REPORT	FT	REPORT	12	GROSS DESCRIPTION:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	20	REPORT	FT	REPORT	13	GROSS DESCRIPTION:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	21	REPORT	FT	REPORT	14	GROSS DESCRIPTION:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	22	REPORT	FT	REPORT	15	"A)   Received fresh for frozen section analysis in a container labeled ""Wiggum, right frontal tumor"" are two fragments of soft tissue, one measuring 1.0 x 0.3 x 0.2 cm and the other measuring 0.5 x 0.5 x 0.2 cm.  A frozen section analysis is performed and after which the frozen section residue is thawed and submitted in cassette A1FS and the remainder of the specimen is submitted in cassette A2.  (DZ/ch)"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	23	REPORT	FT	REPORT	16	"B)   Received in a container of formalin labeled ""Wiggum, right frontal tumor"" are multiple fragments of brain parenchyma, the largest two measuring 6.5 x 4.5 x 3.5 cm and 4.5 x 3.6 x 2.2 cm, respectively.  The surfaces of the brain parenchyma appear tan-white, firm, and necrotic.  Representative sections of the necrotic material are submitted in cassette B1 and additional representative sections are submitted in cassettes B2-B4.  (DZ/ch)"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	24	REPORT	FT	REPORT	17	"B)   Received in a container of formalin labeled ""Wiggum, right frontal tumor"" are multiple fragments of brain parenchyma, the largest two measuring 6.5 x 4.5 x 3.5 cm and 4.5 x 3.6 x 2.2 cm, respectively.  The surfaces of the brain parenchyma appear tan-white, firm, and necrotic.  Representative sections of the necrotic material are submitted in cassette B1 and additional representative sections are submitted in cassettes B2-B4.  (DZ/ch)"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	25	REPORT	FT	REPORT	18	INTRAOPERATIVE CONSULTATION:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	26	REPORT	FT	REPORT	19	INTRAOPERATIVE CONSULTATION:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	27	REPORT	FT	REPORT	20	INTRAOPERATIVE CONSULTATION:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	28	REPORT	FT	REPORT	21	"AFS/ATP)  Malignant epithelioid neoplasm, favor metastasis, carcinoma; melanoma much less likely (CDK).  (DZ/ch)"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	29	REPORT	FT	REPORT	22	MICROSCOPIC DESCRIPTION:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	30	REPORT	FT	REPORT	23	MICROSCOPIC DESCRIPTION:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	31	REPORT	FT	REPORT	24	MICROSCOPIC DESCRIPTION:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	32	REPORT	FT	REPORT	25	"A, B) Representative H&E-stained sections reveal a well-demarcated neoplastic epithelial process in the brain parenchyma forming clusters, sheets and abortive glandular structures. The neoplastic cells are large with abundant clear to fine granular eosinophilic cytoplasm and pleomorphic nuclei with coarse chromatin and conspicuous eosinophilic nucleoli. Mitotic activity is brisk and numerous mitoses are atypical. Apoptotic bodies and necBurnss are also seen. Stroma contains numerous vessels and is infiltrated with chronic inflammatory cells. Surrounded brain parenchyma is edematous and contains numerous reactive astrocytes."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	33	REPORT	FT	REPORT	26	IMMUNOHISTOCHEMISTRY:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	34	REPORT	FT	REPORT	27	IMMUNOHISTOCHEMISTRY:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	35	REPORT	FT	REPORT	28	IMMUNOHISTOCHEMISTRY:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	36	REPORT	FT	REPORT	29	"(Interpreted by: Groundskeeper Willie MD, PhD and Cecil Terwilliger MD)"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	37	REPORT	FT	REPORT	30	"Immunohistochemistry is prepared on formalin-fixed deparaffinized sections (with or without the use of heat induced epitope retrieval) utilizing the primary antibodies designated below with biotinylated secondary antibodies, avidin-biotin-peroxidase localization, diaminobenzidine as chromogen and hematoxylin counterstain.  Results are as indicated in the table(s) below."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	38	REPORT	FT	REPORT	31	Block (Original Label): B2	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	39	REPORT	FT	REPORT	32	Block (Original Label): B2	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	40	REPORT	FT	REPORT	33	Population: Neoplastic cells	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	41	REPORT	FT	REPORT	34	Label     Marker For          Results   Special Pattern or Comments	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	42	REPORT	FT	REPORT	35	Label     Marker For          Results   Special Pattern or Comments	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	43	REPORT	FT	REPORT	36	"CK20 NP Cytokeratin 20 (Ks20), ICC      Negative  Controls appropriately positive"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	44	REPORT	FT	REPORT	37	"CK7  NP Cytokeratin 7 (OV-TL), ICC      Positive, uniformly Controls appropriately positive"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	45	REPORT	FT	REPORT	38	"S-100     NP S-100, ICC       Negative  Controls appropriately positive"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	46	REPORT	FT	REPORT	39	"TTF-1     NP TTF-1 Antibody from Dako, ICC        Positive, uniformly Controls appropriately positive"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	47	REPORT	FT	REPORT	40	"Note:  The immunohistochemical studies reported above were prepared in the Department of Pathology Neuropathology Laboratory at Springfield General Hospital Medical Center.  The Neuropathology Laboratory is licensed under the Clinical Laboratory Improvement Amendments (CLIA) of 1988 to perform high complexity clinical testing.  These tests are used for clinical purposes and should not be considered as investigational.  Some of these tests rely on the use of ""analyte specific reagents"" and are subject to specific labeling requirements by the US Food and Drug Administration.  This test was developed and its performance characteristics determined by the Department of Pathology Neuropathology Laboratory, Springfield General Hospital Medical Center.  It has not been cleared or approved by the U. S. Food and Drug Administration."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	48	REPORT	FT	REPORT	41	"Note:  The immunohistochemical studies reported above were prepared in the Department of Pathology Neuropathology Laboratory at Springfield General Hospital Medical Center.  The Neuropathology Laboratory is licensed under the Clinical Laboratory Improvement Amendments (CLIA) of 1988 to perform high complexity clinical testing.  These tests are used for clinical purposes and should not be considered as investigational.  Some of these tests rely on the use of ""analyte specific reagents"" and are subject to specific labeling requirements by the US Food and Drug Administration.  This test was developed and its performance characteristics determined by the Department of Pathology Neuropathology Laboratory, Springfield General Hospital Medical Center.  It has not been cleared or approved by the U. S. Food and Drug Administration."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	49	REPORT	FT	REPORT	42	FINAL DIAGNOSIS:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	50	REPORT	FT	REPORT	43	FINAL DIAGNOSIS:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	51	REPORT	FT	REPORT	44	FINAL DIAGNOSIS:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	52	REPORT	FT	REPORT	45	"A, B) Right frontal tumor, resection: METASTATIC ADENOCARCINOMA, most consistent with lung or thyroid primary; see comment"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	53	REPORT	FT	REPORT	46	Comment:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	54	REPORT	FT	REPORT	47	Comment:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	55	REPORT	FT	REPORT	48	Comment:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	56	REPORT	FT	REPORT	49	This diagnosis was reported to Milhouse Van Houten on 10/21/2016 at 1032h.	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	57	REPORT	FT	REPORT	50	10/9/2016	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	58	REPORT	FT	REPORT	51	Peter MD	"B) Brain, tumor resection~A) Brain, tumor resection"
+U9999995	NP-11-99992	59	REPORT	FT	REPORT	52	Pathologist	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	60	REPORT	FT	REPORT	53	"Groundskeeper Willie MD, PhD"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	61	REPORT	FT	REPORT	54	"Groundskeeper Willie MD, PhD"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	62	REPORT	FT	REPORT	55	"Groundskeeper Willie MD, PhD"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	63	REPORT	FT	REPORT	56	Neuropathology Fellow	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	64	REPORT	FT	REPORT	57	10/9/2016	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	65	REPORT	FT	REPORT	58	Peter MD	"B) Brain, tumor resection~A) Brain, tumor resection"
+U9999995	NP-11-99992	66	REPORT	FT	REPORT	59	Pathologist	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	67	REPORT	FT	REPORT	60	Electronically signed 10/1/2016	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	68	REPORT	FT	REPORT	61	"In compliance with CMS regulations, the pathologist's signature on this report indicates that the case has been personally reviewed, and the diagnosis made or confirmed by, the Attending Pathologist. Microscopic examination was used to arrive at the diagnosis unless indicated otherwise."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	69	REPORT	FT	REPORT	62	Addendum Reason:  This addendum is to document the results of EGFR Level 1 mutational analysis.	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	70	REPORT	FT	REPORT	63	Addendum Reason:  This addendum is to document the results of EGFR Level 1 mutational analysis.	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	71	REPORT	FT	REPORT	64	EGFR Mutations Results:  NEGATIVE for L858R mutation and exon 19 deletions	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	72	REPORT	FT	REPORT	65	EGFR Mutations Results:  NEGATIVE for L858R mutation and exon 19 deletions	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	73	REPORT	FT	REPORT	66	EGFR Block Tested:  B2	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	74	REPORT	FT	REPORT	67	EGFR Block Tested:  B2	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	75	REPORT	FT	REPORT	68	EGFR Interpretation:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	76	REPORT	FT	REPORT	69	EGFR Interpretation:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	77	REPORT	FT	REPORT	70	"The sample tested is negative for the L858R mutation in exon 21 and for deletion mutations in exon 19 of the EGFR gene, which together account for about 90% of the somatic mutations in the EGFR gene in patients with lung cancer. If clinically indicated, DNA sequence analysis is being performed to detect other rare mutations in the EGFR gene (EGFR Level 2 test) and will be reported in a separate report. This test can normally detect a heterozygous mutation when it is present in more than about 10% (for L858R) or 2% (for deletions) of the cells in the sample."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	78	REPORT	FT	REPORT	71	"For further information on test methods and interpretation, see tests.labmed.Springfield.edu/EGFR or call lab at 206-555-5555. Test results reviewed by Marvin Monroe, Ph.D., Milhouse Van Houten M.D., Ph.D., or Artie Ziff, M.D., Ph.D., Laboratory Directors."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	79	REPORT	FT	REPORT	72	"For further information on test methods and interpretation, see tests.labmed.Springfield.edu/EGFR or call lab at 206-555-5555. Test results reviewed by Marvin Monroe, Ph.D., Milhouse Van Houten M.D., Ph.D., or Artie Ziff, M.D., Ph.D., Laboratory Directors."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	80	REPORT	FT	REPORT	73	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	81	REPORT	FT	REPORT	74	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	82	REPORT	FT	REPORT	75	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	83	REPORT	FT	REPORT	76	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	84	REPORT	FT	REPORT	77	"Apu Nahasapeemapetilon MD, PhD"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	85	REPORT	FT	REPORT	78	"Apu Nahasapeemapetilon MD, PhD"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	86	REPORT	FT	REPORT	79	"Apu Nahasapeemapetilon MD, PhD"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	87	REPORT	FT	REPORT	80	Resident	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	88	REPORT	FT	REPORT	81	11/1/2016	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	89	REPORT	FT	REPORT	82	"Groundskeeper Willie MD, PhD"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	90	REPORT	FT	REPORT	83	Laboratory Director	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	91	REPORT	FT	REPORT	84	Electronically signed 11/01/2016	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	92	REPORT	FT	REPORT	85	"In compliance with CMS regulations, the pathologist's signature on this report indicates that the case has been personally reviewed, and the diagnosis made or confirmed by, the Attending Pathologist. Microscopic examination was used to arrive at the diagnosis unless indicated otherwise."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	93	REPORT	FT	REPORT	86	ADDENDUM REASON:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	94	REPORT	FT	REPORT	87	ADDENDUM REASON:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	95	REPORT	FT	REPORT	88	This addendum is issued to report the results of ALK FISH testing.	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	96	REPORT	FT	REPORT	89	FLUORESCENCE IN-SITU HYBRIDIZATION ANALYSIS:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	97	REPORT	FT	REPORT	90	FLUORESCENCE IN-SITU HYBRIDIZATION ANALYSIS:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	98	REPORT	FT	REPORT	91	"(Interpreted by: Bleeding Gums Murphy MD, PhD)"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	99	REPORT	FT	REPORT	92	"Deparaffinized sections from the indicated specimen and control tissues are hybridized with the ALK Break Apart Rearrangement Probe kit (Vysis LSI; Abbott Molecular, Abbott Park, IL), following the manufacturers directions.? The kit includes two FISH DNA probes. The first probe, an ~250 kb probe for the telomeric (3') side of the ALK breakpoint is labeled in SpectrumOrange?.? A second probe, labeled in SpectrumGreen?, is approximately ~300kb in length and lies centromeric (5') to the breakpoint. Fifty interphase signals are scored.? FISH-positive occurrences are defined as greater than 10% of tumor cells with split signals."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	100	REPORT	FT	REPORT	93	Block (Original Label): B2	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	101	REPORT	FT	REPORT	94	Block (Original Label): B2	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	102	REPORT	FT	REPORT	95	Population: Neoplastic cells	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	103	REPORT	FT	REPORT	96	Sample    % Split-Apart Signals    Special Notes/Comments	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	104	REPORT	FT	REPORT	97	Sample    % Split-Apart Signals    Special Notes/Comments	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	105	REPORT	FT	REPORT	98	Negative Control    0	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	106	REPORT	FT	REPORT	99	Positive Control    30	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	107	REPORT	FT	REPORT	100	ALK Sample     2	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	108	REPORT	FT	REPORT	101	"Chromosomal rearrangements involving the ALK gene are characteristic of anaplastic large cell lymphoma and have also been reported in other tumors, including a minority of adenocarcinomas arising in lung, breast and colon (1,2).? Disruption of the ALK gene, as detected by this assay, is consistent with a chromosomal translocation or rearrangement involving ALK at 2p23, but does not identify the specific partner gene."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	109	REPORT	FT	REPORT	102	"Chromosomal rearrangements involving the ALK gene are characteristic of anaplastic large cell lymphoma and have also been reported in other tumors, including a minority of adenocarcinomas arising in lung, breast and colon (1,2).? Disruption of the ALK gene, as detected by this assay, is consistent with a chromosomal translocation or rearrangement involving ALK at 2p23, but does not identify the specific partner gene."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	110	REPORT	FT	REPORT	103	1. Amin HM; Lai R.? Blood. 2007 Oct 1;110(7):2259-67. Epub 2007 May 22.	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	111	REPORT	FT	REPORT	104	1. Amin HM; Lai R.? Blood. 2007 Oct 1;110(7):2259-67. Epub 2007 May 22.	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	112	REPORT	FT	REPORT	105	"2. Lin E, Li L, Guan Y, Soriano R, Rivers CS, Mohan S, Pandita A, Tang J, Modrusan Z.? Mol Cancer Res. 2009 Sep;7(9):1466-76."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	113	REPORT	FT	REPORT	106	"Note:  The performance characteristics of the FISH studies cited in this report were determined by the Immunohistochemistry Laboratory at the University of Springfield Medical Center, Department of Pathology, as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 (CLIA '88).  FISH tests may rely on the use of ""analyte specific reagents"" and are subject to specific labeling requirements by the US Food and Drug Administration.  Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services (formerly HCFA) as a high complexity laboratory under CLIA '88.  These tests need not be cleared or approved by the FDA prior to their use.  Nevertheless, federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	114	REPORT	FT	REPORT	107	"Note:  The performance characteristics of the FISH studies cited in this report were determined by the Immunohistochemistry Laboratory at the University of Springfield Medical Center, Department of Pathology, as part of an ongoing quality assurance program and in compliance with federally mandated regulations drawn from the Clinical Laboratory Improvement Amendments of 1988 (CLIA '88).  FISH tests may rely on the use of ""analyte specific reagents"" and are subject to specific labeling requirements by the US Food and Drug Administration.  Such diagnostic tests may only be performed in a facility that is certified by the Centers for Medicare and Medicaid Services (formerly HCFA) as a high complexity laboratory under CLIA '88.  These tests need not be cleared or approved by the FDA prior to their use.  Nevertheless, federal rules concerning the medical use of analyte specific reagents require that the following disclaimer be attached to this report."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	115	REPORT	FT	REPORT	108	"This test was developed and its performance characteristics determined by the Immunohistochemistry Laboratory of the University of Springfield Medical Center, Department of Pathology.  It has not been cleared or approved by the U. S. Food and Drug Administration."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	116	REPORT	FT	REPORT	109	"This test was developed and its performance characteristics determined by the Immunohistochemistry Laboratory of the University of Springfield Medical Center, Department of Pathology.  It has not been cleared or approved by the U. S. Food and Drug Administration."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	117	REPORT	FT	REPORT	110	FISH INTERPRETATION:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	118	REPORT	FT	REPORT	111	FISH INTERPRETATION:	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	119	REPORT	FT	REPORT	112	There is no evidence of translocation or rearrangement of the ALK gene.  The above diagnosis is otherwise unchanged.	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	120	REPORT	FT	REPORT	113	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	121	REPORT	FT	REPORT	114	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	122	REPORT	FT	REPORT	115	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	123	REPORT	FT	REPORT	116	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	124	REPORT	FT	REPORT	117	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	125	REPORT	FT	REPORT	118	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	126	REPORT	FT	REPORT	119	"Bleeding Gums Murphy MD, PhD"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	127	REPORT	FT	REPORT	120	"Bleeding Gums Murphy MD, PhD"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	128	REPORT	FT	REPORT	121	Pathologist	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	129	REPORT	FT	REPORT	122	Electronically signed 11/10/2016	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	130	REPORT	FT	REPORT	123	"In compliance with CMS regulations, the pathologist's signature on this report indicates that the case has been personally reviewed, and the diagnosis made or confirmed by, the Attending Pathologist. Microscopic examination was used to arrive at the diagnosis unless indicated otherwise."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	131	REPORT	FT	REPORT	124	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	132	REPORT	FT	REPORT	125	Addendum reason:  This addendum is to report results of EGFRL2  mutational analysis.	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	133	REPORT	FT	REPORT	126	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	134	REPORT	FT	REPORT	127	EGFRL2 Results: Negative for mutations in exons 18 to 21	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	135	REPORT	FT	REPORT	128	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	136	REPORT	FT	REPORT	129	EGFRL2 Block tested:  B2	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	137	REPORT	FT	REPORT	130	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	138	REPORT	FT	REPORT	131	"EGFRL2 Interpretation: The sample tested is negative for mutations in exons 18, 19, 20, and 21 of the EGFR gene, which together account for about 99% of the somatic mutations in the EGFR gene in patients with lung cancer. This test can normally detect a heterozygous mutation present in more than 20% to 40% of"	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	139	REPORT	FT	REPORT	132	the cells in the specimen.	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	140	REPORT	FT	REPORT	133	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	141	REPORT	FT	REPORT	134	"For further information on test methods and interpretation, see tests.labmed.Springfield.edu/EGFR or call lab at 206-555-5555. Test results reviewed by Groundskeeper Willie, MD, PhD, Captain Lance Murdock, PhD, or Apu Nahasapeemapetilon, MD, PhD, Laboratory Directors."	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	142	REPORT	FT	REPORT	135	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	143	REPORT	FT	REPORT	136	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	144	REPORT	FT	REPORT	137	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	145	REPORT	FT	REPORT	138	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	146	REPORT	FT	REPORT	139	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	147	REPORT	FT	REPORT	140	NULL	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	148	REPORT	FT	REPORT	141	Entered by DB	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	149	REPORT	FT	REPORT	142	Reviewed by Lab Director	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	150	REPORT	FT	REPORT	143	Electronically signed 11/8/2016	"B) Brain, tumor resection~A) Brain, tumor resection"	
+U9999995	NP-11-99992	151	REPORT	FT	REPORT	144	"In compliance with CMS regulations, the pathologist's signature on this report indicates that the case has been personally reviewed, and the diagnosis made or confirmed by, the Attending Pathologist. Microscopic examination was used to arrive at the diagnosis unless indicated otherwise."	"B) Brain, tumor resection~A) Brain, tumor resection"	
