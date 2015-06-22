@@ -27,7 +27,6 @@ def get(disease_group,dictionary):
     extract the histology from the lower cased text of the pathology report       
     return a list of dictionaries of each PathFindHistology (per specimen) and overall PathHistology (for the entire report)
     '''
-   
     return_dictionary_list=[]
     ## a list of histologies from the disease relevent histology file
     histologies=[]
@@ -49,7 +48,7 @@ def get(disease_group,dictionary):
     histology_list=[]
     start_stops_list=[]
     
-    for specimen_dictionary in dictionary[(0,'SpecimenSource',0,None)].values():        
+    for specimen_dictionary in dictionary[(0,global_strings.SPECIMEN_SOURCE,0,None)].values():        
         for specimen,description in specimen_dictionary.items():
             specimen_histology_list=[]
             specimen_start_stops_list=[]
