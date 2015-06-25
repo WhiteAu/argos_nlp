@@ -140,7 +140,8 @@ else:
     ## iterate through errors - crash for Exceptions and output Warnings
     if output_dictionary[global_strings.ERRS]:        
         crash=False        
-        for error_dictionary in output_dictionary[global_strings.ERRS]:            
+        for error_dictionary in output_dictionary[global_strings.ERRS]:
+            print error_dictionary
             if error_dictionary and error_dictionary[global_strings.ERR_TYPE]=='Exception':
                 crash=True
                 sys.stderr.write(error_dictionary[global_strings.ERR_STR])

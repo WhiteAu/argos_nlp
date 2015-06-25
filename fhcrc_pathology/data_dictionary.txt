@@ -1,7 +1,10 @@
-PathSpecimenType	GROSS DESCRIPTION
-PathSite	SpecimenSource
-PathSide	GROSS DESCRIPTION
-PathHistology	FINAL DIAGNOSIS
-PathDate	DEMOGRAPHICS
-Pathologist	NULL
-PathGrade	NULL
+# module name	level of data element	pertinent sections
+PathSpecimenType	specimen_level	SPECIMEN
+PathSite	specimen_level	SPECIMEN|DESCRIPTION|IMPRESSION|Specimen
+PathSide	specimen_level	SPECIMEN|DESCRIPTION|IMPRESSION|Specimen
+PathHistology	specimen_level	IMPRESSION|FINAL DIAGNOSIS|COMMENT
+PathDate	specimen_level	FullText
+Pathologist	specimen_level	FullText
+PathGrade	specimen_level	IMPRESSION|FINAL DIAGNOSIS|COMMENT	
+PathStageM	specimen_level	IMPRESSION|FINAL DIAGNOSIS|COMMENT
+PathStageN	specimen_level	IMPRESSION|FINAL DIAGNOSIS|COMMENT

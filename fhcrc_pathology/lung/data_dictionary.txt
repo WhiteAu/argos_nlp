@@ -1,3 +1,2 @@
-PathStageT	FINAL DIAGNOSIS
-PathStageN	FINAL DIAGNOSIS
-PathStageM	FINAL DIAGNOSIS
+# module name	level of data element	pertinent sections
+PathStageT	specimen_level	IMPRESSION|FINAL DIAGNOSIS|COMMENT
