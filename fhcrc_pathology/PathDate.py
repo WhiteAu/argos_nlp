@@ -16,13 +16,14 @@ def get(disease_group,dictionary,specimen,module_sections):
     '''
     extract the first signed date from normal cased text of the pathology report    
     '''
-    return_dictionary={global_strings.NAME:"PathDate",global_strings.VALUE:None,global_strings.KEY:specimen,global_strings.CONFIDENCE:0.0,global_strings.VERSION:__version__,
-                           global_strings.STARTSTOPS:[],global_strings.TABLE:global_strings.PATHOLOGY_TABLE}
-    for section in dictionary:
+    return_dictionary={global_strings.NAME:"PathDate",global_strings.VALUE:None,global_strings.VERSION:__version__,
+                           global_strings.STARTSTOPS:[]}
+   
+    for section in dictionary:        
         section_specimen=section[3]
         line_onset=section[2]
         header=section[1]            
-        if re.search(module_sections[1],header): 
+        if re.search(module_sections,header): 
             ## make this match non greedy so that the first date is picked out
             date_match=re.match('.*?Electronically signed[ ]*([\d]{1,2})[\-/]([\d]{1,2})[\-/]([\d]{4}).*',dictionary[section],re.DOTALL)
             if date_match:
@@ -34,7 +35,6 @@ def get(disease_group,dictionary,specimen,module_sections):
                 return_dictionary[global_strings.VALUE]=str(datetime.strptime(year+','+month+','+day,'%Y,%m,%d').isoformat())
                 return_dictionary[global_strings.CONFIDENCE]=1.0
                 return_dictionary[global_strings.STARTSTOPS].append({global_strings.START:date_match.start(1),global_strings.STOP:date_match.end(3)})
-            
-               
+                   
     return ([return_dictionary],list)
     

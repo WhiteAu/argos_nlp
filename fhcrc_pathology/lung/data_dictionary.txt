@@ -1,2 +1,2 @@
-# module name	level of data element	pertinent sections
-PathStageT	specimen_level	IMPRESSION|FINAL DIAGNOSIS|COMMENT
+# module name	destination table	pertinent sections
+PathStageT	PathologyStageGrade	IMPRESSION|FINAL DIAGNOSIS|COMMENT

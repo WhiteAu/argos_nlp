@@ -1,10 +1,10 @@
-# module name	level of data element	pertinent sections
-PathSpecimenType	specimen_level	SPECIMEN
-PathSite	specimen_level	SPECIMEN|DESCRIPTION|IMPRESSION|Specimen
-PathSide	specimen_level	SPECIMEN|DESCRIPTION|IMPRESSION|Specimen
-PathHistology	specimen_level	IMPRESSION|FINAL DIAGNOSIS|COMMENT
-PathDate	specimen_level	FullText
-Pathologist	specimen_level	FullText
-PathGrade	specimen_level	IMPRESSION|FINAL DIAGNOSIS|COMMENT	
-PathStageM	specimen_level	IMPRESSION|FINAL DIAGNOSIS|COMMENT
-PathStageN	specimen_level	IMPRESSION|FINAL DIAGNOSIS|COMMENT
+# module name	destination table	pertinent sections
+PathSpecimenType	Pathology	SPECIMEN
+PathSite	Pathology	SPECIMEN|DESCRIPTION|IMPRESSION|Specimen
+PathSide	Pathology	SPECIMEN|DESCRIPTION|IMPRESSION|Specimen
+PathHistology	Pathology	IMPRESSION|FINAL DIAGNOSIS|COMMENT
+PathDate	Pathology	FullText
+Pathologist	Pathology	FullText
+PathGrade	PathologyStageGrade	IMPRESSION|FINAL DIAGNOSIS|COMMENT	
+PathStageM	PathologyStageGrade	IMPRESSION|FINAL DIAGNOSIS|COMMENT
+PathStageN	PathologyStageGrade	IMPRESSION|FINAL DIAGNOSIS|COMMENT

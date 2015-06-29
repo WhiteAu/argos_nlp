@@ -14,12 +14,12 @@ def get(disease_group,dictionary,specimen,module_sections):
     
     '''
     return_dictionary={global_strings.NAME:"PathTest",global_strings.VALUE:None,global_strings.CONFIDENCE:0.0,global_strings.VERSION:__version__,
-                           global_strings.STARTSTOPS:[],global_strings.KEY:specimen,global_strings.TABLE:global_strings.STAGE_GRADE_TABLE}
+                           global_strings.STARTSTOPS:[]}
     for section in dictionary:
         section_specimen=section[3]
         line_onset=section[2]
         header=section[1]            
-        if re.search(module_sections[1],header):
+        if re.search(module_sections,header):
             for index,results in sorted(dictionary[section].items(),key=lambda x: int(x[0])):
                 test=re.match('.*...........ppppppppppp.*',results,re.DOTALL)        
                 return_dictionary[global_strings.VALUE]=t_stage.group(1)       

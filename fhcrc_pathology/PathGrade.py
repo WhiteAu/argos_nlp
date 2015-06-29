@@ -79,7 +79,7 @@ def get(disease_group,dictionary,specimen,module_sections):
             section_specimen=section[3]
             line_onset=section[2]
             header=section[1]
-            if re.search(module_sections[1], header):                               
+            if re.search(module_sections, header):                               
                 text= dictionary[section].values()[0]                    
                 ## meant to weed out references to literature/papers - picking up publication info like this: 2001;30:1-14. ##
                 ## these can contain confusing general statements about the cancer and/or patients in general ##
@@ -107,10 +107,9 @@ def get(disease_group,dictionary,specimen,module_sections):
         if specimen_grade:
             confidence=.65
             if len(specimen_grade)>1: confidence=.5
-            return_dictionary_list.append({global_strings.NAME:"PathGrade",global_strings.KEY:specimen,global_strings.TABLE:global_strings.PATHOLOGY_TABLE,global_strings.VALUE:';'.join(specimen_grade),
+            return_dictionary_list.append({global_strings.NAME:"PathGrade",global_strings.VALUE:';'.join(specimen_grade),
                 global_strings.CONFIDENCE:("%.2f" % confidence), global_strings.VERSION:__version__,global_strings.STARTSTOPS:start_stops_list} )
-            return_dictionary_list.append({global_strings.NAME:"PathGrade",global_strings.KEY:specimen,global_strings.TABLE:global_strings.STAGE_GRADE_TABLE,global_strings.VALUE:';'.join(specimen_grade),
-                global_strings.CONFIDENCE:("%.2f" % confidence), global_strings.VERSION:__version__,global_strings.STARTSTOPS:start_stops_list} ) 
+            
     '''
     BRING THIS LOGIC TO THE PROCESS PATHOOLOGY LOOP
     ## if there were no specimens, or no specimen headers in the text - look at the text overall ##

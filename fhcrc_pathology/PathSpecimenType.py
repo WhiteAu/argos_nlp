@@ -39,7 +39,7 @@ def get(disease_group,dictionary,specimen,module_sections):
             section_specimen=section[3]
             line_onset=section[2]
             header=section[1]            
-            if re.search(module_sections[1],header):                                                          
+            if re.search(module_sections,header):                                                          
                 text='\n'.join(results.lower() for index,results in sorted(dictionary[section].items(),key=lambda x: int(x[0])))
                 text=re.sub('[.,:;\\\/\-\)\(]',' ',text)                     
                 for each_spec_type in procedures_list:                        

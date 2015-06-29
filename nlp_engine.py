@@ -127,8 +127,9 @@ else:
 
     ## run modules according to document type ##
     exec ('output,errors,return_type=return_exec_code(process_'+arguments.get('-t')+'.main(arguments,nlp_engine_path ))')
-    if return_type==Exception:        
-        sys.stderr.write(errors[global_strings.ERR_STR])
+    if return_type==Exception:
+        for each in errors:
+            sys.stderr.write(each[global_strings.ERR_STR])
         sys.exit(1)
     else:
         output_dictionary[global_strings.REPORTS]=output
@@ -140,11 +141,11 @@ else:
     ## iterate through errors - crash for Exceptions and output Warnings
     if output_dictionary[global_strings.ERRS]:        
         crash=False        
-        for error_dictionary in output_dictionary[global_strings.ERRS]:
-            print error_dictionary
+        for error_dictionary in output_dictionary[global_strings.ERRS]:            
             if error_dictionary and error_dictionary[global_strings.ERR_TYPE]=='Exception':
                 crash=True
                 sys.stderr.write(error_dictionary[global_strings.ERR_STR])
+                
         if crash==True:sys.exit(1)
     ## output results to file ##
     output_return = output_results.main(arguments.get('-o'),output_dictionary)

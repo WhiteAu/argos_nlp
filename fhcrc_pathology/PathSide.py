@@ -21,12 +21,12 @@ def get(disease_group,dictionary,specimen,module_sections):
 
     def get_side(specimen):       
         specimen_side_list=[]
-        specimen_start_stops_list=[]       
+        start_stops_set=set([])       
         for section in dictionary:            
             section_specimen=section[3]            
             line_onset=section[2]
             header=section[1]            
-            if re.search(module_sections[1],header):
+            if re.search(module_sections,header):
                 text= dictionary[section].items()[0][1]                              
                 ## meant to weed out references to literature/papers - picking up publication info like this: 2001;30:1-14. ##
                 ## these can contain confusing general statements about the cancer and/or patients in general ##
@@ -39,13 +39,16 @@ def get(disease_group,dictionary,specimen,module_sections):
                         for each_match in re.finditer('.*( |^)'+each_pattern+'( |$).*',text,re.DOTALL):                           
                             if match_list[each_pattern] not in specimen_side_list:                                    
                                 specimen_side_list.append(match_list[each_pattern])                                    
-                            specimen_start_stops_list.append({global_strings.START:each_match.start(2)+line_onset,global_strings.STOP:each_match.end(2)+line_onset})
+                            start_stops_set.add((each_match.start(2)+line_onset,each_match.end(2)+line_onset))
                        
         if specimen_side_list:
             if type(specimen_side_list)==str:   specimen_side_list=[specimen_side_list]
+            start_stops_list=[]
+            for start_stops in start_stops_set:
+                start_stops_list.append({global_strings.START:start_stops[0],global_strings.STOP:start_stops[1]})
             if ('Right' in specimen_side_list and 'Left' in specimen_side_list) or 'Bilateral' in specimen_side_list: specimen_side_list=['Bilateral']           
-            return {global_strings.NAME:"PathSide",global_strings.KEY:specimen,global_strings.TABLE:global_strings.PATHOLOGY_TABLE,global_strings.VALUE:';'.join(set(specimen_side_list)),
-                    global_strings.CONFIDENCE:("%.2f" % .85), global_strings.VERSION:__version__, global_strings.STARTSTOPS:specimen_start_stops_list}
+            return {global_strings.NAME:"PathSide",global_strings.VALUE:';'.join(set(specimen_side_list)),
+                    global_strings.CONFIDENCE:("%.2f" % .85), global_strings.VERSION:__version__, global_strings.STARTSTOPS:start_stops_list}
            
         else:           
             return None
