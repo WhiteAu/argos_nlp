@@ -1,0 +1,6 @@
+Cancer;cancerous
+Malignant;malignancy
+Metastatic Carcinoma
+Metastatic Cancer
+Carcinoma
+Sarcoma;[a-zA-Z]+sarcoma

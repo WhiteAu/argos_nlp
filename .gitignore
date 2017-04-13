@@ -54,5 +54,14 @@ docs/_build/
 # git versioning cmd script used for auto version numbers
 git-revision.cmd
 
+
 #sample de-identified data for smoke test
 sampleData/
+
+#any text feature file or model
+*feature_mapping.txt
+*models/
+
+
+#ignore back-up files
+*.*~

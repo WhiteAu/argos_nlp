@@ -1,5 +1,6 @@
+'''author@esilgard'''
 #
-# Copyright (c) 2014-2015 Fred Hutchinson Cancer Research Center
+# Copyright (c) 2013-2016 Fred Hutchinson Cancer Research Center
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,12 +15,8 @@
 # limitations under the License.
 #
 
-import sys,path_parser,global_strings
-import os
-path2= os.path.dirname(os.path.realpath(__file__))+'/'
-'''author@esilgard'''
-'''written October 2014'''
-__version__='final_pathology_logic1.0'
+from . import global_strings
+__version__ = 'final_pathology_logic1.0'
 
 def get(table_list):
     '''
@@ -27,50 +24,27 @@ def get(table_list):
     add/delete values for the final output
     table_list = list of table dictionaries where
                 table dictionary: tableName and a dictionary
-                    
-    '''   
-    return_list=[]
-
-    ## iterate through the tables 
+    '''
+    return_list = []
+    ## iterate through the tables
     for table in table_list:
-        field_list=[]
-        
-        ## iterate through the PathFinding values to find the specimen (recordKey) PathFindingHistology
-        if table[global_strings.TABLE]==global_strings.FINDING_TABLE:            
-            specimen_histology_found=set([])
-            for fields in table[global_strings.FIELDS]:               
-                
-                if fields[global_strings.NAME]=="PathFindHistology" and fields[global_strings.VALUE]:                   
-                    specimen_histology_found.add(fields[global_strings.KEY])                    
-            ## iterate through fields again and only append those that have histologies to the final field list            
+        field_list = []
+        ## iterate through PathFinding values, find the specimen (recordKey) PathFindingHistology
+        if table[global_strings.TABLE] == global_strings.FINDING_TABLE:
+            specimen_histology_found = set([])
+            for fields in table[global_strings.FIELDS]:
+                if fields[global_strings.NAME] == "PathFindHistology" \
+                   and fields[global_strings.VALUE]:
+                    specimen_histology_found.add(fields[global_strings.KEY])
+            ## iterate through fields again, only ones that have histologies to the final list
             for fields in table[global_strings.FIELDS]:
                 if fields[global_strings.KEY] in specimen_histology_found:
-                    field_list.append(fields)        
+                    field_list.append(fields)
         else:
             for fields in table[global_strings.FIELDS]:
                 if fields[global_strings.VALUE]:
                     field_list.append(fields)
         if field_list:
-            table[global_strings.FIELDS]=field_list
+            table[global_strings.FIELDS] = field_list
             return_list.append(table)
-    '''
-    for table in table_list:
-        print table
-        table_d={global_strings.TABLE:table[global_strings.TABLE],global_strings.FIELDS:[]}               
-        for each_field in table[global_strings.FIELDS]:
-            record_histology_found={}
-            specimen_fields=[] 
-            if each_field[global_strings.VALUE]:
-                if each_field[global_strings.NAME]=='PathFindHistology':
-                    record_histology_found[each_field[global_strings.KEY]]=True              
-                table_d[global_strings.FIELDS].append(each_field)
-        ## don't report any PathologyFinding values for a given specimen if there was no cancer in the given specimen ##
-        if table==global_strings.FINDING_TABLE:
-            for every_field in table["fields"]:
-                if record_histology_found[every_field[global_strings.KEY]]==False:    
-                    table_d[global_strings.TABLE]=[]....remove pathfindings from dictionary/set?list?blah?            
-            print 'findings table WIPED FOR ',each_field[global_strings.KEY]
-        if table_d[global_strings.FIELDS]:            
-            return_list.append(table_d)    
-    '''
-    return return_list      
+    return return_list

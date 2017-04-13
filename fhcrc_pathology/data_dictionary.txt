@@ -1,7 +1,20 @@
-PathSpecimenType	GROSS DESCRIPTION
-PathSite	SpecimenSource
-PathSide	GROSS DESCRIPTION
-PathHistology	FINAL DIAGNOSIS
-PathDate	DEMOGRAPHICS
-Pathologist	NULL
-PathGrade	NULL
+PathSpecimenType	Class
+PathSite	Class
+PathSide	Class
+PathHistology	Class
+ClinicalHistory	Class
+PathSignedDate	Class
+PathCollectedDate	Class
+PathReceivedDate	Class
+Pathologist	Class
+OtherFinding	Class
+PathQuality	Class
+PathStageT	Class
+PathStageN	Class
+PathStageM	Class
+PathStageSystem	Class
+Behavior	Class
+Her2FISH	MLClass
+Her2IHC	MLClass
+Nottingham	MLClass
+Mitotic	MLClass

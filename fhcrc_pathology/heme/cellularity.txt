@@ -1,0 +1,4 @@
+Hypercellular;Hypercellular bone marrow;Hypercellular specimen;Hypercellular marrow
+Normocellular;Normocellular bone marrow;Normocellular specimen;Normocellular marrow
+Hypocellular;Hypocellular bone marrow;Hypocellular specimen;Hypocellular marrow
+Hypo-Normocellular;hypo-normo cellular bone marrow;hypo-normo cellular specimen;hypo-normo cellular marrow
